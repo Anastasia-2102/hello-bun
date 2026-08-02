@@ -11,3 +11,8 @@ I completed my first ACP loop on my own.
 I learn how to rename a file with Git.
 
 My favorite cammand is pwd.
+
+My three favorite commands are:
+pwd
+ls
+cd
