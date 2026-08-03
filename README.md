@@ -11,3 +11,7 @@ add-commit-push ritual.
 Why do programmers prefer dark mode?
 
 Because light attracts bugs!
+
+How many programmers does it take to change a lightbulb? 
+
+None, that's a hardware problem. :)
