@@ -3,3 +3,5 @@ My name is Anastasia, and I'm learning software development. I want to build a c
 I'm excited to learn new skills and grow in the tech industry.
 
 My favorite color is blue.
+
+I am excited to learn JavaScript.
